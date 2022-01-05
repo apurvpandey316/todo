@@ -1,4 +1,3 @@
-import "./App.css";
 import DashBoard from "./components/DashBoard";
 import Notes from "./components/Notes";
 import Modal from "./components/Modal";
